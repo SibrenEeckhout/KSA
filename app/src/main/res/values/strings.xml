@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Ksa</string>
+    <string name="login">Login</string>
+    <string name="contacts">Contacten</string>
+    <string name="announcements">Aankondigingen</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="password">Wachtwoord</string>
+    <string name="recentAnnouncements">Recente Aankondigingen</string>
+    <string name="seeAll">Bekijk Alles</string>
+    <string name="noResults">Geen resultaten gevonden</string>
+    <string name="soundsLikeAYouProblem">Klinkt als een JOUW probleem</string>
+    <string name="timeline">Tijdlijn</string>
+    <string name="documents">Documenten</string>
+    <string name="myGroups">Mijn Groepen</string>
+    <string name="myTodos">Mijn To-Do\'s</string>
+    <string name="markTodoAsDone">Deze To-do markeren als voltooid?</string>
+    <string name="cancel">Annuleren</string>
+    <string name="confirm">Bevestigen</string>
+    <string name="addTodo">To-do Toevoegen</string>
+    <string name="todoExample">Bv. Mailen Joepie</string>
+    <string name="add">Toevoegen</string>
+    <string name="email">Email</string>
+</resources>
